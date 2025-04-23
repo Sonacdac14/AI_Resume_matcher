@@ -5,7 +5,7 @@ Upload a PDF resume and extract structured data (name, skills, education, experi
 ## Live Demo
 [Click here to try it out]
 
-https://sonacdac14-ai-resume-matcher-streamlit-app-xga7iz.streamlit.app/
+https://sonacdac14-ai-resume-matcher.streamlit.app/
 
 ## How it works
 1. Upload a resume (PDF only)
